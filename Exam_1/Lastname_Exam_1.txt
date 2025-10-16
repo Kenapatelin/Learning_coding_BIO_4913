@@ -1,0 +1,13 @@
+Exam#1-Kena Patel
+189126417 SLF_genomic.gff
+wc -m SLF_genomic.gff >> Lastname_Exam_1.txt
+654620 SLF_genomic.gff
+wc -l SLF_genomic.gff >>Lastname_Exam_1.txt
+330367
+grep -c mRNA SLF_geenomic_gff >> Lastname_Exam_1.txt
+NC_012835.1	exon	13514	13575
+NC_012835.1	rRNA	13576	14367
+NC_012835.1	exon	13576	14367
+NC_012835.1	sequence_feature	14368	15410
+###			
+tail -n 5 SLF_genomic.gff | awk 'BEGIN {OFS=t} {print , , , }' >> Lastname_Exam_1.txt
