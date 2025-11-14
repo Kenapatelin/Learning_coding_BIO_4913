@@ -1,0 +1,7 @@
+Longest male length: 28 mm
+Collected at site: B15
+
+Longest female length: 29 mm
+Collected at site: C19
+
+Longest male and female were collected at DIFFERENT sites.

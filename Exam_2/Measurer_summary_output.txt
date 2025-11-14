@@ -1,0 +1,5 @@
+Measurer	#Samples	#Rural	#Suburban	#Urban
+AM        	759     	145   	499      	115  
+AP        	547     	79    	66       	402  
+RM        	1098    	283   	507      	308  
+RN        	1       	0     	1        	0    
